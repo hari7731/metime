@@ -2,8 +2,7 @@
 [![Build Status](https://travis-ci.org/Varun-garg/GBU_Timetables.svg?branch=master)](https://travis-ci.org/Varun-garg/GBU_Timetables)
 
 # GBU Timetables
-Android application to view timetables for both faculty and students.  
-https://play.google.com/store/apps/details?id=com.varun.gbu_timetables
+
 
 
 ## Features
